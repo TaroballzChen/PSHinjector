@@ -16,7 +16,7 @@ PSHinjector是一個由python3編寫的工具，可載入客製Metasploit生成�
 	* msfvenom 產生raw檔
 	* sc 引入powershell格式raw檔
 	* og 合併powershell文件
-  * exe 模塊封裝
+  	* exe 模塊封裝
 	* msf 模塊監聽
 * Example 2
 	* sc 模塊產生普通raw檔
@@ -47,7 +47,9 @@ $ python3 pshinjector.py
 ```
 
 # Reference
-* 
-* 
-* 
-* 
+* https://github.com/curtis992250/powerpreter_toolkit
+* https://github.com/Mr-Un1k0d3r/DKMC
+* https://github.com/EmpireProject/Empire
+* https://github.com/rzander/PS2EXE
+* https://github.com/aravindvcyber/PS1toEXE
+* https://github.com/danielbohannon/Invoke-Obfuscation
