@@ -41,6 +41,15 @@ python3
 $ git clone https://github.com/curtis992250/PSHinjector.git
 
 ```
+
+- 最新的Kali 2020 需手動安裝gedit & gnome-terminal
+
+```cmd
+apt-get update
+apt-get install gedit
+apt-get install gnome-terminal
+```
+
 # Usage
 ```
 $ python3 pshinjector.py
